@@ -40,19 +40,19 @@ Joblib
 
  ## How to Run
  
-# Step 1: Clone the repository
+Step 1: Clone the repository
 
 git clone https://github.com/shreya293/internship-projects.git
 
-# Step 2: Navigate to project directory
+Step 2: Navigate to project directory
 
 cd iris\ classification
 
-# Step 3: Install requirements
+ tep 3: Install requirements
 
 pip install -r requirements.txt
 
-# Step 4: Run the app
+Step 4: Run the app
 
 python app.py
 
