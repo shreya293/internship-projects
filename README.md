@@ -15,7 +15,7 @@ iris classification/
 ├── app.py
 ├── requirements.txt
 
- ##Features
+ ## Features
 Predicts Iris species: Setosa, Versicolor, or Virginica
 
 Clean, responsive UI with step-by-step input fields
@@ -24,7 +24,7 @@ Model powered by scikit-learn
 
 Flask web interface
 
-##Technologies Used
+## Technologies Used
 
 Python
 
@@ -36,7 +36,7 @@ Scikit-learn
 
 Joblib
 
- ##How to Run
+ ## How to Run
  
 # Step 1: Clone the repository
 
@@ -54,7 +54,7 @@ pip install -r requirements.txt
 
 python app.py
 
-##Requirements
+## Requirements
 
 Make sure you have Python installed. Required libraries:
 
@@ -66,6 +66,6 @@ scikit-learn
 
 joblib
 
-##You can install them with:
+## You can install them with:
 
 pip install -r requirements.txt
